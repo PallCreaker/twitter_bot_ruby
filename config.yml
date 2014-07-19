@@ -1,0 +1,6 @@
+#config.yml
+
+twitter_api:
+    CONSUMER_KEY:
+    CONSUMER_SECRET:
+    ACCESS_TOKEN: 
