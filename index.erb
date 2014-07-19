@@ -1,0 +1,15 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>自画撮り部</title>
+</head>
+<body>
+  <div id="main">
+    <% @data.each_with_index do |obj, i| %>
+      <a href="<%= obj["url"] %>">
+        <img src="<%= obj["url"] %>" width="auto" height="100" alt="自画撮り">
+      </a>
+    <% end %>
+  </div>
+</body>
+</html>

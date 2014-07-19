@@ -1,6 +1,0 @@
-# twitter api key
-
-CUNSUMER_KEY = ""
-CUNSUMER_SECRET = ""
-ACCESS_TOKEN = ""
-ACCESS_TOKEN_SECRET = ""
